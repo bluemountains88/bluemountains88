@@ -6,7 +6,7 @@ FullStack Developer
 
 * 🌍  I'm based in Argentina
 * ✉️  You can contact me at [bluemountains.dev@gmail.com](mailto:bluemountains.dev@gmail.com)
-* 🧠  I'm learning Next.Js and Algorithms
+* 🧠  I'm learning Typescript
 
 ### Skills
 
